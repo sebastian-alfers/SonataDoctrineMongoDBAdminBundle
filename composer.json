@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/doctrine-mongodb-admin-bundle",
+    "name": "sebastian-alfers-sonata-project/doctrine-mongodb-admin-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Sonata / Integrate Doctrine MongoDB ODM into the SonataAdminBundle",
     "keywords": ["Admin Generator", "admin", "sonata", "bootstrap", "Mongo"],
@@ -22,7 +22,7 @@
         "symfony/security-bundle": "2.*",
         "doctrine/mongodb-odm-bundle": "2.*",
         "doctrine/mongodb": "dev-master",
-        "doctrine/mongodb-odm": "dev-master"
+        "slot-doctrine/mongodb-odm": "dev-master"
     },
     "autoload": {
         "psr-0": { "Sonata\\DoctrineMongoDBAdminBundle": "" }
