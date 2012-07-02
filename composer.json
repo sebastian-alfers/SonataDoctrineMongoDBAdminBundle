@@ -22,7 +22,7 @@
         "symfony/security-bundle": "2.*",
         "doctrine/mongodb-odm-bundle": "dev-master",
         "doctrine/mongodb": "dev-master",
-        "slot-doctrine/mongodb-odm": "dev-master"
+        "doctrine/mongodb-odm": "dev-master"
     },
     "autoload": {
         "psr-0": { "Sonata\\DoctrineMongoDBAdminBundle": "" }
